@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Martin Hendl
-=======
-Martin Hendl
->>>>>>> 792ac140493fe5179a7d809e216d9f58022e03ed
+
